@@ -1,7 +1,6 @@
 <div align="center">
-
-![Liri Logo](Picsart_25-11-20_12-11-56-569.png)
-
+  <img src="Picsart_25-11-20_12-11-56-569.png" alt="Liri Logo" width="50" height="50"/>
+</div>
 # 🎵 Liri
 
 ### Your music, your way—beautifully organized
