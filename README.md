@@ -1,73 +1,182 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Liri Logo" width="120"/>
-</p>
+<div align="center">
 
-# Liri
+![Liri Logo](assets/logo.png)
 
-**Liri** is a modern music management app designed for seamless listening, organizing, and importing of your favorite tracks. With a focus on privacy, speed, and flexibility, Liri empowers you to enjoy your music your way—online or offline.
+# 🎵 Liri
 
----
+### Your music, your way—beautifully organized
 
-## ✨ Features
+**A modern music management experience designed for seamless listening, organizing, and importing**
 
-- **Offline Support**  
-  Enjoy your music library anytime, anywhere—even without an internet connection.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername/liri)
 
-- **Spotify Import**  
-  Effortlessly import your playlists and tracks from Spotify to keep all your favorites in one place.
-
-- **Modern UI**  
-  Clean, intuitive, and responsive interface for a delightful user experience.
-
-- **Playlist Management**  
-  Create, edit, and organize playlists with ease.
-
-- **Fast Search**  
-  Quickly find songs, artists, or albums with powerful search capabilities.
-
-- **Privacy First**  
-  Your data stays on your device. No unnecessary data collection.
-
-- **Cross-Platform**  
-  Works on Windows, macOS, and Linux.
+</div>
 
 ---
 
-## 🚀 Plus Points
+<div align="center">
 
-- No internet required for playback after initial sync.
-- Import from Spotify and other sources.
-- Lightweight and fast.
-- No ads or tracking.
-- Open-source and community-driven.
+### 📸 Experience Liri
 
----
+<table>
+  <tr>
+    <td><img src="assets/screenshot1.png" alt="Library View" width="100%"/></td>
+    <td><img src="assets/screenshot2.png" alt="Player View" width="100%"/></td>
+    <td><img src="assets/screenshot3.png" alt="Playlist View" width="100%"/></td>
+    <td><img src="assets/screenshot4.png" alt="Search View" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot5.png" alt="Import View" width="100%"/></td>
+    <td><img src="assets/screenshot6.png" alt="Settings View" width="100%"/></td>
+    <td><img src="assets/screenshot7.png" alt="Album View" width="100%"/></td>
+    <td><img src="assets/screenshot8.png" alt="Artist View" width="100%"/></td>
+  </tr>
+</table>
 
-## 📦 Packages & Technologies Used
-
-- **Electron** – Desktop app framework
-- **React** – UI library
-- **Redux** – State management
-- **Spotify Web API Node** – Spotify integration
-- **Dexie.js** – IndexedDB wrapper for offline storage
-- **Styled Components** – Styling
-- **Howler.js** – Audio playback
-
----
-
-## 🔒 Security & Privacy
-
-Liri is designed with privacy in mind. Sensitive information such as API keys, encryption methods, and database structures are never exposed or stored insecurely.
+</div>
 
 ---
 
+## 🌟 What Makes Liri Special
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎧 **Offline First**
+Enjoy your entire music library anytime, anywhere—even when you're completely offline. Your music travels with you.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎼 **Spotify Integration**
+Seamlessly import your playlists, liked songs, and albums from Spotify. Keep all your favorites in one unified place.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 **Modern Design**
+Built with Material 3 principles—beautiful, expressive, and adaptive interface that feels natural and delightful.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📂 **Smart Playlists**
+Create, edit, and organize playlists with intelligent management tools. Your music, your way.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ **Lightning Fast**
+Powerful search capabilities let you find any song, artist, or album instantly. No waiting around.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔒 **Privacy Focused**
+Your data stays on your device. No tracking, no cloud storage, no compromises. Your music is yours alone.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Why Choose Liri?
+
+> **A music player that respects you and your music**
+
+- ✅ **No Internet Required** – Playback works completely offline after initial sync
+- ✅ **Import Freedom** – Bring your music from Spotify and other sources
+- ✅ **Lightweight & Fast** – Optimized performance that doesn't slow you down
+- ✅ **Zero Ads** – No advertisements, no interruptions, ever
+- ✅ **No Tracking** – Your listening habits are private
+- ✅ **Open Source** – Community-driven development you can trust
+- ✅ **Cross-Platform** – Available on Windows, macOS, and Linux
+
+---
+
+## 🛠️ Built With Modern Technology
+
+<div align="center">
+
+| Technology | Purpose | Why We Use It |
+|:---:|:---:|:---:|
+| **Electron** | Desktop Framework | Cross-platform native experience |
+| **React** | UI Library | Fast, reactive user interface |
+| **Redux** | State Management | Predictable app state |
+| **Spotify Web API** | Integration | Seamless Spotify imports |
+| **Dexie.js** | Offline Storage | IndexedDB wrapper for performance |
+| **Styled Components** | Styling | Dynamic, component-scoped styles |
+| **Howler.js** | Audio Playback | Reliable cross-browser audio |
+
+</div>
+
+---
+
+## 🔐 Security & Privacy Promise
+
+At Liri, we believe your music and data belong to you—and only you.
+
+- 🔒 **Local Storage Only** – All data stays on your device
+- 🔒 **No Analytics** – We don't track what you listen to
+- 🔒 **Secure by Design** – No unnecessary permissions or data collection
+- 🔒 **Open Source** – Audit our code anytime you want
+
+*Your API keys, encryption methods, and database structures are never exposed or stored insecurely.*
+
+---
+
+## 📥 Getting Started
+
+Get up and running with Liri in just three steps:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/yourusername/liri.git
+
+# 2️⃣ Install dependencies
+npm install
+
+# 3️⃣ Launch the app
+npm start
+```
+
+**That's it!** Liri will open and you can start importing your music library.
+
+---
+
+## 🤝 Contributing
+
+Liri is open source and we welcome contributions! Whether it's:
+
+- 🐛 Bug reports
+- 💡 Feature requests
+- 📝 Documentation improvements
+- 🎨 UI/UX enhancements
+- 💻 Code contributions
+
+Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
+
+---
 
 ## 📄 License
 
-MIT License
+Liri is released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-<p align="center">
-  <img src="assets/logo.png" alt="Liri Logo" width="60"/>
-</p>
+<div align="center">
+
+### Made with ❤️ by the Liri Community
+
+![Liri Footer Logo](assets/logo.png)
+
+**[Website](https://liri.app)** • **[Documentation](https://docs.liri.app)** • **[Discord](https://discord.gg/liri)** • **[Twitter](https://twitter.com/liriapp)**
+
+⭐ **If you enjoy Liri, give us a star on GitHub!** ⭐
+
+</div>
