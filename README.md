@@ -23,16 +23,20 @@
 
 <table>
   <tr>
-    <td><img src="1.png" alt="Library View" width="100%"/></td>
-    <td><img src="2.png" alt="Player View" width="100%"/></td>
-    <td><img src="3.png" alt="Playlist View" width="100%"/></td>
-    <td><img src="4.png" alt="Search View" width="100%"/></td>
+    <td width="50%"><img src="1.png" alt="Library View" width="100%"/></td>
+    <td width="50%"><img src="2.png" alt="Player View" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="5.png" alt="Import View" width="100%"/></td>
-    <td><img src="6.png" alt="Settings View" width="100%"/></td>
-    <td><img src="7.png" alt="Album View" width="100%"/></td>
-    <td><img src="8.png" alt="Artist View" width="100%"/></td>
+    <td width="50%"><img src="3.png" alt="Playlist View" width="100%"/></td>
+    <td width="50%"><img src="4.png" alt="Search View" width="100%"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="5.png" alt="Import View" width="100%"/></td>
+    <td width="50%"><img src="6.png" alt="Settings View" width="100%"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="7.png" alt="Album View" width="100%"/></td>
+    <td width="50%"><img src="8.png" alt="Artist View" width="100%"/></td>
   </tr>
 </table>
 
