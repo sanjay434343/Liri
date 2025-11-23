@@ -6,7 +6,7 @@
 ### Your music, your way—beautifully organized
 **A modern online music player with offline playback capabilities for seamless listening, organizing, and importing**
 
-<div align="center">
+
 
 
 ## 💬 Support
@@ -18,7 +18,6 @@ Your support and contributions help make Liri better for everyone.
 
 <a href="https://www.buymeacoffee.com/liri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-</div>
 
 ---
 
