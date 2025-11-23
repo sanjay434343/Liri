@@ -98,24 +98,6 @@ Your data stays on your device. No tracking, no cloud storage, no compromises. Y
 
 ---
 
-## 🛠️ Built With Modern Technology
-
-<div align="center">
-
-| Technology | Purpose | Why We Use It |
-|:---:|:---:|:---:|
-| **Electron** | Desktop Framework | Cross-platform native experience |
-| **React** | UI Library | Fast, reactive user interface |
-| **Redux** | State Management | Predictable app state |
-| **Spotify Web API** | Integration | Seamless Spotify imports |
-| **Dexie.js** | Offline Storage | IndexedDB wrapper for performance |
-| **Styled Components** | Styling | Dynamic, component-scoped styles |
-| **Howler.js** | Audio Playback | Reliable cross-browser audio |
-
-</div>
-
----
-
 ## 🔐 Security & Privacy Promise
 
 At Liri, we believe your music and data belong to you—and only you.
