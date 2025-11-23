@@ -130,25 +130,6 @@ At Liri, we believe your music and data belong to you—and only you.
 
 ---
 
-## 📥 Getting Started
-
-Get up and running with Liri in just three steps:
-
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/yourusername/liri.git
-
-# 2️⃣ Install dependencies
-npm install
-
-# 3️⃣ Launch the app
-npm start
-```
-
-**That's it!** Liri will open and you can start importing your music library.
-
----
-
 ## 🤝 Contributing
 
 Liri is open source and we welcome contributions! Whether it's:
