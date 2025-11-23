@@ -1,11 +1,13 @@
 <div align="center">
   <img src="Picsart_25-11-20_12-11-56-569.png" alt="Liri Logo" width="50" height="50"/>
 </div>
-# 🎵 Liri
 
+# 🎵 Liri
 ### Your music, your way—beautifully organized
 
-**A modern music management experience designed for seamless listening, organizing, and importing**
+**A modern online music player with offline playback capabilities for seamless listening, organizing, and importing**
+
+<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername/liri)
@@ -43,8 +45,8 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🎧 **Offline First**
-Enjoy your entire music library anytime, anywhere—even when you're completely offline. Your music travels with you.
+### 🎧 **Offline Playback**
+Stream your music online and enjoy offline playback once downloaded. Your music travels with you, even without internet.
 
 </td>
 <td width="33%" valign="top">
@@ -76,7 +78,7 @@ Powerful search capabilities let you find any song, artist, or album instantly. 
 <td width="33%" valign="top">
 
 ### 🔒 **Privacy Focused**
-Your data stays on your device. No tracking, no cloud storage, no compromises. Your music is yours alone.
+Your listening data stays secure. No unnecessary tracking, transparent data handling.
 
 </td>
 </tr>
@@ -88,13 +90,13 @@ Your data stays on your device. No tracking, no cloud storage, no compromises. Y
 
 > **A music player that respects you and your music**
 
-- ✅ **No Internet Required** – Playback works completely offline after initial sync
+- ✅ **Offline Playback** – Listen without internet after downloading your tracks
 - ✅ **Import Freedom** – Bring your music from Spotify and other sources
 - ✅ **Lightweight & Fast** – Optimized performance that doesn't slow you down
 - ✅ **Zero Ads** – No advertisements, no interruptions, ever
-- ✅ **No Tracking** – Your listening habits are private
 - ✅ **Open Source** – Community-driven development you can trust
 - ✅ **Cross-Platform** – Available on Windows, macOS, and Linux
+- ✅ **Online & Offline** – Stream online, play offline when downloaded
 
 ---
 
@@ -102,12 +104,12 @@ Your data stays on your device. No tracking, no cloud storage, no compromises. Y
 
 At Liri, we believe your music and data belong to you—and only you.
 
-- 🔒 **Local Storage Only** – All data stays on your device
-- 🔒 **No Analytics** – We don't track what you listen to
-- 🔒 **Secure by Design** – No unnecessary permissions or data collection
-- 🔒 **Open Source** – Audit our code anytime you want
+- 🔒 **Secure Storage** – Your downloaded music is stored safely on your device
+- 🔒 **Transparent** – Open source code you can review anytime
+- 🔒 **Minimal Permissions** – We only request what's necessary
+- 🔒 **No Unnecessary Tracking** – Your listening habits remain private
 
-*Your API keys, encryption methods, and database structures are never exposed or stored insecurely.*
+*Your credentials and personal data are handled securely and transparently.*
 
 ---
 
