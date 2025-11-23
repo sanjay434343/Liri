@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="Picsart_25-11-20_12-11-56-569.png" alt="Liri Logo" width="50" height="50"/>
+  <img src="Picsart_25-11-20_12-11-56-569.png" alt="Liri Logo" width="100" height="100"/>
 </div>
 
-# 🎵 Liri
+# Liri
 ### Your music, your way—beautifully organized
 **A modern online music player with offline playback capabilities for seamless listening, organizing, and importing**
 
