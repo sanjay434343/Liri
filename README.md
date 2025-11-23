@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Picsart_25-11-20_12-11-56-569.png" alt="Liri Logo" width="100" height="100"/>
+  <img src="Picsart_25-11-20_12-11-56-569.png" alt="Liri Logo" width="100" height="110"/>
 </div>
 
 # Liri
