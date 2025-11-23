@@ -9,7 +9,14 @@
 <div align="center">
 
 
-<a href="https://www.buymeacoffee.com/liri"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=liri&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+## 💬 Support
+
+If you need help, find a bug, or want to request a new feature, please open an issue in the repository.  
+For general questions, suggestions, or feedback, you can also use the Discussions section.
+
+Your support and contributions help make Liri better for everyone.
+
+<a href="https://www.buymeacoffee.com/liri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
