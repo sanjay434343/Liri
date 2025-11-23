@@ -8,8 +8,6 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername/liri)
 
 <a href="https://www.buymeacoffee.com/liri"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=liri&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
